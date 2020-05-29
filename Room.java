@@ -1,5 +1,3 @@
-package asgn1;
-
 public class Room {
 	// fields
 	private String type; // Type of the room
