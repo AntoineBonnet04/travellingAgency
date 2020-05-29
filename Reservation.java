@@ -1,5 +1,3 @@
-package asgn1;
-
 public abstract class Reservation {
 	// field
 	private String name;
