@@ -1,5 +1,3 @@
-package asgn1;
-
 public class BnBReservation extends HotelReservation {
 	//constructor: uses inputs to create an HotelReservation
 	public BnBReservation(String name, Hotel hotel, String type, int nights) {
