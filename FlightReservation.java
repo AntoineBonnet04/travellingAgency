@@ -1,5 +1,3 @@
-package asgn1;
-
 public class FlightReservation extends Reservation {
 	// fields
 	private Airport depart;
