@@ -1,4 +1,3 @@
-package asgn1;
 
 public class Airport {
 	// private fields
