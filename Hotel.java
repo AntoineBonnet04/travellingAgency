@@ -1,5 +1,3 @@
-package asgn1;
-
 public class Hotel {
 
 	// fields
